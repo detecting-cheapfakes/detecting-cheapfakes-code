@@ -1,7 +1,7 @@
 # ACM Multimedia Grand Challenge on Detecting Cheapfakes
 
-Challenge website: https://detecting-cheapfakes.github.io/
-Challenge on ACM Multimedia 2022 website: https://2022.acmmm.org/call-for-grand-challenge-submissions/
+Challenge website: https://detecting-cheapfakes.github.io/  
+Challenge on ACM Multimedia 2022 website: https://2022.acmmm.org/call-for-grand-challenge-submissions/  
 Overview paper: https://arxiv.org/abs/2107.05297
 
 
