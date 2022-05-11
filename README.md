@@ -7,9 +7,9 @@ Overview paper: https://arxiv.org/abs/2107.05297
 
 ## Retrieving the public dataset 
 
-Please request access to the public dataset by filling out the form [here](https://forms.gle/kTY4cZPfFKCG35YLA). 
+Please request access to the public dataset by filling out the form [here](https://docs.google.com/forms/d/e/1FAIpQLSf7rZ1-UX419nXqCp2NldekqVNJcS2W9A3jL7MTKhom41p0eg/viewform?usp=sf_link). 
 
-Note that by agreeing to the terms of use, you also agree to **follow the guidelines provided in the challenge description and not to use any dataset or material other than those explicitly provided for the challenge, in building your detector**.
+Note that by agreeing to the terms of use, you also agree to **follow the guidelines provided in the challenge description and not to use any dataset or material other than those explicitly provided for the challenge, in building your solution**.
 
 
 ## Original paper and source code
