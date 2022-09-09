@@ -2,7 +2,7 @@
 
 Challenge website: https://detecting-cheapfakes.github.io/  
 Challenge on ACM Multimedia 2022 website: https://2022.acmmm.org/call-for-grand-challenge-submissions/  
-Overview paper: https://arxiv.org/abs/2107.05297
+Overview paper: https://arxiv.org/pdf/2207.14534
 
 
 ## Retrieving the public dataset 
